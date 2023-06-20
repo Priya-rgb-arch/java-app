@@ -73,7 +73,6 @@
 
   <build>
     <finalName>mywebapp</finalName>
-   <build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
